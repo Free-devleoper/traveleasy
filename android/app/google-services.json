@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841120071403",
+    "project_id": "traveleasy-ae3b7",
+    "storage_bucket": "traveleasy-ae3b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841120071403:android:640bac570846b79e09c8ae",
+        "android_client_info": {
+          "package_name": "com.traveleasy.traveleasy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvHwN-JlZHBDcLyuFj0je7KlnYQSyKDyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
