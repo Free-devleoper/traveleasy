@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "841120071403",
-    "project_id": "traveleasy-ae3b7",
-    "storage_bucket": "traveleasy-ae3b7.appspot.com"
+    "project_number": "487609316709",
+    "project_id": "traveleasy-178bb",
+    "storage_bucket": "traveleasy-178bb.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:841120071403:android:640bac570846b79e09c8ae",
+        "mobilesdk_app_id": "1:487609316709:android:2b3ac3e50f53c1c1d45d8c",
         "android_client_info": {
           "package_name": "com.traveleasy.traveleasy"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBvHwN-JlZHBDcLyuFj0je7KlnYQSyKDyc"
+          "current_key": "AIzaSyDtvlD-DNBng-7FxB3os4Q4TmAasBjUH7Q"
         }
       ],
       "services": {

@@ -50,19 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBvHwN-JlZHBDcLyuFj0je7KlnYQSyKDyc',
-    appId: '1:841120071403:android:640bac570846b79e09c8ae',
-    messagingSenderId: '841120071403',
-    projectId: 'traveleasy-ae3b7',
-    storageBucket: 'traveleasy-ae3b7.appspot.com',
+    apiKey: 'AIzaSyDtvlD-DNBng-7FxB3os4Q4TmAasBjUH7Q',
+    appId: '1:487609316709:android:2b3ac3e50f53c1c1d45d8c',
+    messagingSenderId: '487609316709',
+    projectId: 'traveleasy-178bb',
+    storageBucket: 'traveleasy-178bb.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBySRzcaBVQRHRh_oQTTawbhkbh8LNjQqY',
-    appId: '1:841120071403:ios:5aa297e464fefb0d09c8ae',
-    messagingSenderId: '841120071403',
-    projectId: 'traveleasy-ae3b7',
-    storageBucket: 'traveleasy-ae3b7.appspot.com',
+    apiKey: 'AIzaSyBD-PGyvM1NxFID2avcZenLPr3hpNwUABA',
+    appId: '1:487609316709:ios:3dfff2f91ae748a2d45d8c',
+    messagingSenderId: '487609316709',
+    projectId: 'traveleasy-178bb',
+    storageBucket: 'traveleasy-178bb.firebasestorage.app',
     iosBundleId: 'com.traveleasy.traveleasy',
   );
+
 }
